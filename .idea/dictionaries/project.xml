@@ -2,11 +2,21 @@
   <dictionary name="project">
     <words>
       <w>cach</w>
+      <w>chuoi</w>
+      <w>chuyen</w>
+      <w>cuoi</w>
+      <w>dieu</w>
+      <w>fullname</w>
+      <w>giua</w>
       <w>khich</w>
       <w>khong</w>
       <w>khuyen</w>
+      <w>nhat</w>
+      <w>phep</w>
+      <w>thien</w>
       <w>thua</w>
       <w>tren</w>
+      <w>truy</w>
     </words>
   </dictionary>
 </component>
